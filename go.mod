@@ -10,5 +10,5 @@ require (
 	github.com/spf13/viper v1.8.1
 	github.com/twmb/murmur3 v1.1.6
 	github.com/yinheli/mahonia v0.0.0-20131226213531-0eef680515cc
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
+	golang.org/x/net v0.17.0
 )
